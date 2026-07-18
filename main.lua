@@ -3,8 +3,8 @@
 -- Find a PlaceId by checking game.PlaceId while in that game.
 
 local games = {
-	[0000000000] = "https://raw.githubusercontent.com/iamdookie1/Robloxx/main/games/HideAndSeek.lua",   -- Hide and Seek
-	[0000000000] = "https://raw.githubusercontent.com/iamdookie1/Robloxx/main/games/ParkourModded.lua",  -- Parkour Modded
+	[0000000000] = "https://raw.githubusercontent.com/iamdookie1/Roblx/main/games/HideAndSeek.lua",   -- Hide and Seek
+	[0000000000] = "https://raw.githubusercontent.com/iamdookie1/Roblx/main/games/ParkourModded.lua",  -- Parkour Modded
 }
 
 local placeId = game.PlaceId
