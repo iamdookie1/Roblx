@@ -1,0 +1,2 @@
+-- Parkour Modded script
+-- Write your Parkour Modded game code here

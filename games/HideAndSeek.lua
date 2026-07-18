@@ -1,0 +1,2 @@
+-- Hide and Seek script
+-- Write your Hide and Seek game code here
